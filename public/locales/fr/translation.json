@@ -1,0 +1,4 @@
+{
+    "Welcome to React": "Bienvenue sur React et React-i18next",
+   "what is":"réagir-i18next est une bibliothèque d'internationalisation (i18n) populaire pour les applications React construites sur i18next. Il fournit des composants et des hooks React pour faciliter l'intégration des fonctionnalités i18n dans les applications React. Avec React-i18next, vous pouvez facilement gérer les traductions, le changement de langue et d'autres tâches liées à i18n au sein de vos composants React."
+}

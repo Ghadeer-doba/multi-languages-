@@ -1,0 +1,4 @@
+{
+    "Welcome to React": "Welcome to React and react-i18next ",
+    "what is":"react-i18next is a popular internationalization (i18n) library for React applications built on top of i18next. It provides React components and hooks to facilitate the integration of i18n functionality into React applications. With react-i18next, you can easily manage translations, language switching, and other i18n-related tasks within your React components."
+}
